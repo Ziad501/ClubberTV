@@ -28,6 +28,4 @@ namespace Infrastructure.Config
                    .IsRequired();
         }
     }
-    {
-    }
 }
